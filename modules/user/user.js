@@ -1,6 +1,6 @@
-// const con = require('../database/mysql');
+const con = require('../database/mysql');
 const util = require('util');
-// const query = util.promisify(con.query).bind(con);
+const query = util.promisify(con.query).bind(con);
 const functions = require('../common/functions');
 const config = require('../../config');
 const validator = require('validator');
