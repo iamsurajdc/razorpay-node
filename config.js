@@ -6,7 +6,7 @@ module.exports = {
   databaseDatabaseName: 'world',
   
   // Razor
-  RAZORPAY_KEY_ID: 'rzp_test_0wzrsNDtOxDPKP',
+  RAZORPAY_KEY_ID: '',
   RAZORPAY_SECRET: '0twroC4KbTLwRPqFIS5XH62v',
 
 
